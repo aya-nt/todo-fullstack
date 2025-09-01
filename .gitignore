@@ -1,0 +1,33 @@
+﻿# Node
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+
+# Build / coverage
+dist/
+build/
+coverage/
+.tmp/
+temp/
+
+# Prisma (if used)
+.prisma/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
