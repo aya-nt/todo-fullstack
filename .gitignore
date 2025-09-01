@@ -23,7 +23,7 @@ coverage/
 .tmp/
 temp/
 
-# Prisma (if used)
+# Prisma
 .prisma/
 
 # OS / Editors
